@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -10,7 +11,8 @@
       "id": 2
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +23,874 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "users": {
+        "Name": "Steve",
+        "Email": "steve@steve.com"
+      },
+      "id": 1
+    },
+    {
+      "users": {
+        "Name": "Steve",
+        "Email": "steve@steve.com"
+      },
+      "id": 2
+    },
+    {
+      "users": {
+        "Name": "Steve",
+        "Email": "steve@steve.com"
+      },
+      "id": 3
+    },
+    {
+      "users": {
+        "Name": "Steve",
+        "Email": "steve@steve.com"
+      },
+      "id": 4
+    },
+    {
+      "users": {
+        "Name": "Steve",
+        "Email": "steve@steve.com"
+      },
+      "id": 5
+    },
+    {
+      "users": {
+        "Name": "Steve",
+        "Email": "steve@steve.com"
+      },
+      "id": 6
+    },
+    {
+      "users": {
+        "Name": "Steve",
+        "Email": "steve@steve.com"
+      },
+      "id": 7
+    },
+    {
+      "users": {
+        "Name": "Steve",
+        "Email": "steve@steve.com"
+      },
+      "id": 8
+    },
+    {
+      "users": {
+        "Name": "Steve",
+        "Email": "steve@steve.com"
+      },
+      "id": 9
+    },
+    {
+      "users": {
+        "Name": "Steve",
+        "Email": "steve@steve.com"
+      },
+      "id": 10
+    },
+    {
+      "users": {
+        "Name": "Steve",
+        "Email": "steve@steve.com"
+      },
+      "id": 11
+    },
+    {
+      "users": {
+        "Name": "Steve",
+        "Email": "steve@steve.com"
+      },
+      "id": 12
+    },
+    {
+      "users": {
+        "Name": "Steve",
+        "Email": "steve@steve.com"
+      },
+      "id": 13
+    },
+    {
+      "users": {
+        "Name": "Steve",
+        "Email": "steve@steve.com"
+      },
+      "id": 14
+    },
+    {
+      "users": {
+        "Name": "Steve",
+        "Email": "steve@steve.com"
+      },
+      "id": 15
+    },
+    {
+      "users": {
+        "Name": "Steve",
+        "Email": "steve@steve.com"
+      },
+      "id": 16
+    },
+    {
+      "users": {
+        "Name": "Steve",
+        "Email": "steve@steve.com"
+      },
+      "id": 17
+    },
+    {
+      "users": {
+        "Name": "Steve",
+        "Email": "steve@steve.com"
+      },
+      "id": 18
+    },
+    {
+      "users": {
+        "Name": "Steve",
+        "Email": "steve@steve.com"
+      },
+      "id": 19
+    },
+    {
+      "users": {
+        "Name": "Steve",
+        "Email": "steve@steve.com"
+      },
+      "id": 20
+    },
+    {
+      "users": {
+        "Name": "Steve",
+        "Email": "steve@steve.com"
+      },
+      "id": 21
+    },
+    {
+      "users": {
+        "Name": "Steve",
+        "Email": "steve@steve.com"
+      },
+      "id": 22
+    },
+    {
+      "users": {
+        "Name": "Steve",
+        "Email": "steve@steve.com"
+      },
+      "id": 23
+    },
+    {
+      "users": {
+        "Name": "Steve",
+        "Email": "steve@steve.com"
+      },
+      "id": 24
+    },
+    {
+      "users": {
+        "Name": "Steve",
+        "Email": "steve@steve.com"
+      },
+      "id": 25
+    },
+    {
+      "users": {
+        "Name": "Steve",
+        "Email": "steve@steve.com"
+      },
+      "id": 26
+    },
+    {
+      "users": {
+        "Name": "Steve",
+        "Email": "steve@steve.com"
+      },
+      "id": 27
+    },
+    {
+      "users": {
+        "Name": "Steve",
+        "Email": "steve@steve.com"
+      },
+      "id": 28
+    },
+    {
+      "users": {
+        "Name": "Steve",
+        "Email": "steve@steve.com"
+      },
+      "id": 29
+    },
+    {
+      "users": {
+        "Name": "Steve",
+        "Email": "steve@steve.com"
+      },
+      "id": 30
+    },
+    {
+      "users": {
+        "Name": "Steve",
+        "Email": "steve@steve.com"
+      },
+      "id": 31
+    },
+    {
+      "users": {
+        "Name": "Steve",
+        "Email": "steve@steve.com"
+      },
+      "id": 32
+    },
+    {
+      "users": {
+        "Name": "Steve",
+        "Email": "steve@steve.com"
+      },
+      "id": 33
+    },
+    {
+      "users": {
+        "n": "Steve",
+        "Email": "steve@steve.com"
+      },
+      "id": 34
+    },
+    {
+      "users": {
+        "name": "Steve",
+        "Email": "steve@steve.com"
+      },
+      "id": 35
+    },
+    {
+      "users": {
+        "name": "Steve",
+        "email": "steve@steve.com"
+      },
+      "id": 36
+    },
+    {
+      "users": {
+        "name": "Steve",
+        "email": "steve@steve.com"
+      },
+      "id": 37
+    },
+    {
+      "users": {
+        "name": "Steve",
+        "email": "steve@steve.com"
+      },
+      "id": 38
+    },
+    {
+      "users": {
+        "name": "Steve",
+        "Email": "steve@steve.com"
+      },
+      "id": 39
+    },
+    {
+      "users": {
+        "Name": "Steve",
+        "Email": "steve@steve.com"
+      },
+      "id": 40
+    },
+    {
+      "users": {
+        "Name": "",
+        "Email": "steve@steve.com"
+      },
+      "id": 41
+    },
+    {
+      "users": {
+        "Name": "Steve",
+        "Email": "steve@steve.com"
+      },
+      "id": 42
+    },
+    {
+      "users": {
+        "name": "Steve",
+        "Email": "steve@steve.com"
+      },
+      "id": 43
+    },
+    {
+      "users": {
+        "name": "Steve",
+        "email": "steve@steve.com"
+      },
+      "id": 44
+    },
+    {
+      "users": {
+        "name": "Steve",
+        "email": "steve@steve.com"
+      },
+      "id": 45
+    },
+    {
+      "users": {
+        "name": "Steve",
+        "email": "steve@steve.com"
+      },
+      "id": 46
+    },
+    {
+      "users": {
+        "name": "Steve",
+        "email": "steve@steve.com"
+      },
+      "id": 47
+    },
+    {
+      "users": {
+        "name": "Steve",
+        "email": "steve@steve.com"
+      },
+      "id": 48
+    },
+    {
+      "users": {
+        "name": "Steve",
+        "email": "steve@steve.com"
+      },
+      "id": 49
+    },
+    {
+      "users": {
+        "name": "Steve",
+        "email": "steve@steve.com"
+      },
+      "id": 50
+    },
+    {
+      "users": {
+        "name": "Steve",
+        "email": "steve@steve.com"
+      },
+      "id": 51
+    },
+    {
+      "users": {
+        "name": "Steve",
+        "email": "steve@steve.com"
+      },
+      "id": 52
+    },
+    {
+      "users": {
+        "name": "Steve",
+        "email": "steve@steve.com"
+      },
+      "id": 53
+    },
+    {
+      "users": {
+        "name": "Steve",
+        "email": "steve@steve.com"
+      },
+      "id": 54
+    },
+    {
+      "users": {
+        "name": "Steve",
+        "email": "steve@steve.com"
+      },
+      "id": 55
+    },
+    {
+      "users": {
+        "name": "Steve",
+        "email": "steve@steve.com"
+      },
+      "id": 56
+    },
+    {
+      "users": {
+        "name": "Steve",
+        "email": "steve@steve.com"
+      },
+      "id": 57
+    },
+    {
+      "users": {
+        "name": "Steve",
+        "email": "steve@steve.com"
+      },
+      "id": 58
+    },
+    {
+      "users": {
+        "name": "Steve",
+        "email": "steve@steve.com"
+      },
+      "id": 59
+    },
+    {
+      "users": {
+        "name": "Steve",
+        "email": "steve@steve.com"
+      },
+      "id": 60
+    },
+    {
+      "users": {
+        "name": "Steve",
+        "email": "steve@steve.com"
+      },
+      "id": 61
+    },
+    {
+      "users": {
+        "name": "Steve",
+        "email": "steve@steve.com"
+      },
+      "id": 62
+    },
+    {
+      "users": {
+        "name": "Steve",
+        "email": "steve@steve.com"
+      },
+      "id": 63
+    },
+    {
+      "users": {
+        "name": "Steve",
+        "email": "steve@steve.com"
+      },
+      "id": 64
+    },
+    {
+      "users": {
+        "name": "Steve",
+        "email": "steve@steve.com"
+      },
+      "id": 65
+    },
+    {
+      "users": {
+        "name": "Steve",
+        "email": "steve@steve.com"
+      },
+      "id": 66
+    },
+    {
+      "users": {
+        "name": "Steve",
+        "email": "steve@steve.com"
+      },
+      "id": 67
+    },
+    {
+      "users": {
+        "name": "Steve",
+        "email": "steve@steve.com"
+      },
+      "id": 68
+    },
+    {
+      "users": {
+        "name": "Steve",
+        "email": "steve@steve.com"
+      },
+      "id": 69
+    },
+    {
+      "users": {
+        "name": "Steve",
+        "email": "steve@steve.com"
+      },
+      "id": 70
+    },
+    {
+      "users": {
+        "name": "Steve",
+        "email": "steve@steve.com"
+      },
+      "id": 71
+    },
+    {
+      "users": {
+        "name": "Steve",
+        "email": "steve@steve.com"
+      },
+      "id": 72
+    },
+    {
+      "users": {
+        "name": "Steve",
+        "email": "steve@steve.com"
+      },
+      "id": 73
+    },
+    {
+      "users": {
+        "name": "Steve",
+        "email": "steve@steve.com"
+      },
+      "id": 74
+    },
+    {
+      "users": {
+        "name": "Steve",
+        "email": "steve@steve.com"
+      },
+      "id": 75
+    },
+    {
+      "users": {
+        "name": "Steve",
+        "email": "steve@steve.com"
+      },
+      "id": 76
+    },
+    {
+      "users": {
+        "name": "Steve",
+        "email": "steve@steve.com"
+      },
+      "id": 77
+    },
+    {
+      "users": {
+        "name": "Steve",
+        "email": "steve@steve.com"
+      },
+      "id": 78
+    },
+    {
+      "users": {
+        "name": "Steve",
+        "email": "steve@steve.com"
+      },
+      "id": 79
+    },
+    {
+      "users": {
+        "name": "Steve",
+        "email": "steve@steve.com"
+      },
+      "id": 80
+    },
+    {
+      "users": {
+        "name": "Steve",
+        "email": "steve@steve.com"
+      },
+      "id": 81
+    },
+    {
+      "users": {
+        "name": "Steve",
+        "email": "steve@steve.com"
+      },
+      "id": 82
+    },
+    {
+      "users": {
+        "name": "Steve",
+        "email": "steve@steve.com"
+      },
+      "id": 83
+    },
+    {
+      "users": {
+        "name": "Steve",
+        "email": "steve@steve.com"
+      },
+      "id": 84
+    },
+    {
+      "users": {
+        "name": "Steve",
+        "email": "steve@steve.com"
+      },
+      "id": 85
+    },
+    {
+      "users": {
+        "name": "Steve",
+        "email": "steve@steve.com"
+      },
+      "id": 86
+    },
+    {
+      "users": {
+        "name": "Steve",
+        "email": "steve@steve.com"
+      },
+      "id": 87
+    },
+    {
+      "users": {
+        "name": "Steve",
+        "email": "steve@steve.com"
+      },
+      "id": 88
+    },
+    {
+      "users": {
+        "name": "Steve",
+        "email": "steve@steve.com"
+      },
+      "id": 89
+    },
+    {
+      "users": {
+        "name": "Steve",
+        "email": "steve@steve.com"
+      },
+      "id": 90
+    },
+    {
+      "users": {
+        "name": "Steve",
+        "email": "steve@steve.com"
+      },
+      "id": 91
+    },
+    {
+      "users": {
+        "name": "Steve",
+        "email": "steve@steve.com"
+      },
+      "id": 92
+    },
+    {
+      "users": {
+        "name": "Steve",
+        "email": "steve@steve.com"
+      },
+      "id": 93
+    },
+    {
+      "users": {
+        "name": "Steve",
+        "email": "steve@steve.com"
+      },
+      "id": 94
+    },
+    {
+      "users": {
+        "name": "Steve",
+        "email": "steve@steve.com"
+      },
+      "id": 95
+    },
+    {
+      "users": {
+        "name": "Steve",
+        "email": "steve@steve.com"
+      },
+      "id": 96
+    },
+    {
+      "users": {
+        "name": "Steve",
+        "email": "steve@steve.com"
+      },
+      "id": 97
+    },
+    {
+      "users": {
+        "name": "Steve",
+        "email": "steve@steve.com"
+      },
+      "id": 98
+    },
+    {
+      "users": {
+        "name": "Steve",
+        "email": "steve@steve.com"
+      },
+      "id": 99
+    },
+    {
+      "users": {
+        "name": "Steve",
+        "email": "steve@steve.com"
+      },
+      "id": 100
+    },
+    {
+      "users": {
+        "name": "Steve",
+        "email": "steve@steve.com"
+      },
+      "id": 101
+    },
+    {
+      "users": {
+        "name": "Steve",
+        "email": "steve@steve.com"
+      },
+      "id": 102
+    },
+    {
+      "users": {
+        "name": "Steve",
+        "email": "steve@steve.com"
+      },
+      "id": 103
+    },
+    {
+      "users": {
+        "name": "Steve",
+        "email": "steve@steve.com"
+      },
+      "id": 104
+    },
+    {
+      "users": {
+        "name": "Steve",
+        "email": "steve@steve.com"
+      },
+      "id": 105
+    },
+    {
+      "users": {
+        "name": "Steve",
+        "email": "steve@steve.com"
+      },
+      "id": 106
+    },
+    {
+      "users": {
+        "name": "Steve",
+        "email": "steve@steve.com"
+      },
+      "id": 107
+    },
+    {
+      "users": {
+        "name": "Steve",
+        "email": "steve@steve.com"
+      },
+      "id": 108
+    },
+    {
+      "users": {
+        "name": "Steve",
+        "email": "steve@steve.com"
+      },
+      "id": 109
+    },
+    {
+      "users": {
+        "name": "Steve",
+        "email": "steve@steve.com"
+      },
+      "id": 110
+    },
+    {
+      "users": {
+        "name": "Steve",
+        "email": "steve@steve.com"
+      },
+      "id": 111
+    },
+    {
+      "users": {
+        "name": "Steve",
+        "email": "steve@steve.com"
+      },
+      "id": 112
+    },
+    {
+      "users": {
+        "name": "Steve",
+        "email": "steve@steve.com"
+      },
+      "id": 113
+    },
+    {
+      "users": {
+        "name": "Steve",
+        "email": "steve@steve.com"
+      },
+      "id": 114
+    },
+    {
+      "users": {
+        "name": "Steve",
+        "email": "steve@steve.com"
+      },
+      "id": 115
+    },
+    {
+      "users": {
+        "name": "Steve",
+        "email": "steve@steve.com"
+      },
+      "id": 116
+    },
+    {
+      "users": {
+        "name": "Steve",
+        "email": "steve@steve.com"
+      },
+      "id": 117
+    },
+    {
+      "users": {
+        "name": "Steve",
+        "email": "steve@steve.com"
+      },
+      "id": 118
+    },
+    {
+      "users": {
+        "name": "Steve",
+        "email": "steve@steve.com"
+      },
+      "id": 119
+    },
+    {
+      "users": {
+        "name": "Steve",
+        "email": "steve@steve.com"
+      },
+      "id": 120
+    },
+    {
+      "users": {
+        "name": "Steve",
+        "email": "steve@steve.com"
+      },
+      "id": 121
+    },
+    {
+      "users": {
+        "name": "Steve",
+        "email": "steve@steve.com"
+      },
+      "id": 122
+    },
+    {
+      "users": {
+        "name": "Steve",
+        "email": "steve@steve.com"
+      },
+      "id": 123
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
